@@ -1,5 +1,5 @@
 ## Hi there,I'm Arti👋
-welcome to my digital workspace!i am a student and tech enthusiast exploring the world of coding and desing.
+welcome to my digital workspace! i am a student and tech enthusiast exploring the world of coding and desing.
 
 what i am currently working on:
 
