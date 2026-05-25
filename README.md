@@ -2,6 +2,7 @@
 welcome to my digital workspace!i am a student and tech enthusiast exploring the world of coding and desing.
 
 what i am currently working on:
+
 .🐍learning python fundamentals to build my very first programe 
 
 .🎨experimenting with UI/UX(figma) to desing clean layouts and interactive micro-animations
