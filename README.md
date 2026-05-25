@@ -1,5 +1,9 @@
-## Hi there 👋
-
+## Hi there,I'm Arti👋
+welcome to my digital workspace!i am a student and tech enthusiast exploring the world of coding and desing.
+what i am currently working on:
+.🐍learning python fundamentals to build my very first programe 
+.🎨experimenting with UI/UX(figma) to desing clean layouts and interactive micro-animations
+.learning the japanese language (mastaring Hiragana & katakana)!
 <!--
 **mirai-builds/mirai-builds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
