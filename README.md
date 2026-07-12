@@ -7,7 +7,6 @@ what i am currently working on:
 
 .🎨experimenting with UI/UX(figma) to desing clean layouts and interactive micro-animations
 
-.learning the japanese language (mastaring Hiragana & katakana)!
 <!--
 **mirai-builds/mirai-builds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
